@@ -1,0 +1,23 @@
+{
+	"name": "vscode-essentials-by-suhayb",
+	"displayName": "VSCode Essentials by Suhayb",
+	"description": "Suhayb's recommended extensions for all VSCode users",
+	"version": "1.0.0",
+	"engines": {
+		"vscode": "^1.75.0"
+	},
+	"categories": [
+		"Extension Packs"
+	],
+	"extensionPack": [
+		"pkief.material-icon-theme",
+		"visualstudioexptteam.vscodeintellicode",
+		"visualstudioexptteam.intellicode-api-usage-examples",
+		"christian-kohler.path-intellisense",
+		"aaron-bond.better-comments",
+		"wayou.vscode-todo-highlight",
+		"usernamehw.errorlens",
+		"esbenp.prettier-vscode",
+		"albert.tabout"
+	]
+}

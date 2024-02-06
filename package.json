@@ -10,8 +10,8 @@
 	},
 	"license": "MIT",
 	"repository": {
-		"type" : "git",
-		"url" : "https://github.com/Suhaybu/vscode-essentials-by-suhayb.git"
+		"type": "git",
+		"url": "https://github.com/Suhaybu/vscode-essentials-by-suhayb.git"
 	},
 	"categories": [
 		"Extension Packs"
@@ -26,5 +26,8 @@
 		"usernamehw.errorlens",
 		"esbenp.prettier-vscode",
 		"albert.tabout"
-	]
+	],
+	"dependencies": {
+		"vsce": "^2.15.0"
+	}
 }
